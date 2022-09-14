@@ -1,0 +1,31 @@
+#include <iostream>
+
+   Console.WriteLine("   *");
+   Console.WriteLine("  **");
+   Console.WriteLine(" ***");
+   Console.WriteLine("****");
+
+   Console.WriteLine("")\n;
+
+   Console.WriteLine("*");
+   Console.WriteLine("**");
+   Console.WriteLine("***");
+   Console.WriteLine("****");
+
+   Console.WriteLine("")\n;
+
+   Console.WriteLine("   *");
+   Console.WriteLine("  ***");
+   Console.WriteLine(" *****");
+   Console.WriteLine("*******");
+
+   Console.WriteLine("")\n;
+
+   Console.WriteLine("*******");
+   Console.WriteLine(" *****";
+   Console.WriteLine("  ***");
+   Console.WriteLine("   *");
+
+   //cin.get();
+   //return 0;
+
